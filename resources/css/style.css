@@ -21,4 +21,14 @@ body {
     color: grey;
 }
 
-/*images*/
+/*link*/
+.link {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+/*copyright*/
+.copyright {
+    text-align: right;
+    color: grey;
+}
